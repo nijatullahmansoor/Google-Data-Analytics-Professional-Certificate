@@ -1,6 +1,8 @@
-## Google Data Analytics Professional Certificate
+# Google Data Analytics Professional Certificate
 
+![alt text](https://github.com/nijatullahmansoor/Google-Data-Analytics-Professional-Certificate/blob/main/certeficate.PNG)
 
+## About this Professional Certificate
 
 Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary.¹
 
